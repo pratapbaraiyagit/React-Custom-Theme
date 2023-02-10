@@ -1,0 +1,14 @@
+.submit-button {
+    text-transform: uppercase;
+    outline: 0;
+    background: #333340;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }

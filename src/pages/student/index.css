@@ -1,0 +1,62 @@
+.header-icon{
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.title-side-drop{
+    background-color: #000;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.color-white{
+    color: #fff;
+}
+
+.entires{
+    margin-left: 10px;
+}
+
+.drop-icon{
+    border-bottom: 2px solid white;
+    width: 25px;
+    margin: 0px 5px 0px 0px;
+}
+
+.drop-ten{
+    margin: 0px 5px 0px 10px;
+}
+
+.edit-icon{
+    color: #05A128;
+    margin: 0px 5px
+    ;
+}
+
+.delete-icon{
+    color: #FF0000;
+    margin: 0px 5px
+    ;
+}
+
+
+.pagi-icon{
+    background-color: #F9F9FB;
+    padding: 15px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.pagi-show{
+    margin-top: 10px;
+}

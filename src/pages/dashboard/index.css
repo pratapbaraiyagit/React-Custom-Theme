@@ -1,0 +1,31 @@
+.heading-card-number-one{
+    color: #3F8DFD;
+}
+
+.heading-card-number-two{
+    color: #803FFD;
+}
+
+.heading-card-number-three{
+    color: #C73FFD;
+}
+
+.heading-card-number-four{
+    color: #FD683F;
+}
+
+.dropdown-menu {
+    --bs-dropdown-min-width: 0px;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.text-with{
+    width: 100%;
+}
